@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="新增删改查取:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="新增删改查取/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="新增删改查取" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/lib/jstl/jstl.jar" />
+          <element id="file-copy" path="D:/lib/jstl/standard.jar" />
+          <element id="file-copy" path="D:/lib/mysql-驱动/mysql-connector-java-5.0.4-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
